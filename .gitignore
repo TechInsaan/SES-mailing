@@ -3,4 +3,3 @@ __pycache__
 static/
 migrations/
 redis_data
-.env
